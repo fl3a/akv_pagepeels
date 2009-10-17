@@ -1,0 +1,13 @@
+<?php
+// $Id$
+
+/**
+ * Implementation of hook_uninstall()
+ */
+function akv_pagepeels_uninstall() {
+  variable_del('akv_type');
+  variable_del('akv_info');
+  variable_del('akv_html'); 
+  variable_del('akv_css');  
+}
+?>

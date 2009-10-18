@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: akv_pagepeels\n"
+"POT-Creation-Date: 2009-10-18 12:05+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Florian Latzel\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+
+#: akv_pagepeels.module:21
+msgid "Displays the !online-demo-pagepeel of !AKV at the right upper corner of your site."
+msgstr "Zeigt das !online-demo-pagepeel des !AKV in Deiner Seite in der Ecke, rechts oben."
+
+#: akv_pagepeels.module:55
+msgid "AKV pagepeels"
+msgstr "AKV Eselsohr"
+
+#: akv_pagepeels.module:56
+msgid "Settings for AKV Pagepeel"
+msgstr "Einstellungen für das AKV Eselsohr"
+
+#: akv_pagepeels.module:70
+msgid "Pagepeel type"
+msgstr "Eselsohr Typ"
+
+#: akv_pagepeels.module:71
+msgid "Choose the type of collapsed pagepeel"
+msgstr "Wähle den Typ des geschlossenen Eselsohrs"
+
+#: akv_pagepeels.module:75
+msgid "Latest pagepeel from AKV, default"
+msgstr "Neustes Eselsohr vom AKV, Voreinstellung"
+
+#: akv_pagepeels.module:76
+msgid "Stasi 2.0 classic"
+msgstr "Stasi 2.0 Klassik"
+
+#: akv_pagepeels.module:77
+msgid "Stasi 2.0 green"
+msgstr "Stasi 2.0 grün"
+
+#: akv_pagepeels.module:78
+msgid "Surveilance camera(2D)"
+msgstr "Überwachungskamera (2D)"
+
+#: akv_pagepeels.module:79
+msgid "Surveilance camera(3D)"
+msgstr "Überwachungskamera (3D)"
+
+#: akv_pagepeels.module:80
+msgid "Surveilance camera(3D + animated"
+msgstr "Überwachungskamera (3D + animiert)"
+
+#: akv_pagepeels.module:81
+msgid "Condolement, 1949 - 2007 t"
+msgstr "Trauer, 1949 - 2007 t"
+
+#: akv_pagepeels.module:85
+msgid "Show info"
+msgstr "Zeige Info"
+
+#: akv_pagepeels.module:86
+msgid "Show info icon under the pagepeel"
+msgstr "Zeige Info-Icon unter dem Eselsohr"
+
+#: akv_pagepeels.module:90
+msgid "Show, default"
+msgstr "Anzeigen, Voreinstellung"
+
+#: akv_pagepeels.module:91
+msgid "Don´t shown"
+msgstr "Nicht anzeigen"
+
+#: akv_pagepeels.module:105
+msgid "Save configuration"
+msgstr "Konfiguration speichern"
+
+#: akv_pagepeels.module:136
+msgid "The configuration options have been saved."
+msgstr "Die Konfigurationsoptionen wurden gepeichert"
+
+#: akv_pagepeels.module:138
+msgid "You are now attending at the !Demo, !here you can create a new entry if you want to get listed at the !attending-sites."
+msgstr "Du nimmst jetzt an der !Demo teil, !here kannst Du einen neue Eintrag anlegen wenn Du unter den !attending-sites gelistet werden möchtest."
+
+#: akv_pagepeels.module:140
+msgid "Online Demo"
+msgstr "Online Demo"
+
+#: akv_pagepeels.module:144
+msgid "here"
+msgstr "hier"
+
+#: akv_pagepeels.module:160
+msgid "The configuration options have been resetted."
+msgstr "Die Konfigurationsoptionen wurden zurückgesetzt"
+
+#: akv_pagepeels.module:42
+msgid "administer akv_pagepeels"
+msgstr "akv_pagepeel verwalten"
+
+#: akv_pagepeels.module:0
+msgid "akv_pagepeels"
+msgstr ""
+
+#: akv_pagepeels.info:0
+msgid "AKV Pagepeel"
+msgstr "AKV Eselsohr"
+
+#: akv_pagepeels.info:0
+msgid "Displays a pagepeel for the german movement against Vorratsdatenspeicherung, www.vorratsdatenspeicherung.de"
+msgstr "Zeigt ein Eselsohr für die Bewegung gegen Vorratsdatenspeicherung an, www.vorratsdatenspeicherung.de."
+

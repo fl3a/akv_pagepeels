@@ -108,7 +108,7 @@ msgstr "hier"
 
 #: akv_pagepeels.module:148
 msgid "attending sites"
-msgstr ""
+msgstr "teilnehmende Webseiten"
 
 #: akv_pagepeels.module:160
 msgid "The configuration options have been resetted."

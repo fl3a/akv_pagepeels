@@ -145,7 +145,7 @@ function akv_pagepeels_admin_submit($form_id, $form_values) {
             NULL, NULL, NULL, TRUE        
           ), 
           '!attending-sites' =>
-          l('attending sites', 'http://wiki.vorratsdatenspeicherung.de/Online-Demo/Teilnehmende_Websites',
+          l(t('attending sites'), 'http://wiki.vorratsdatenspeicherung.de/Online-Demo/Teilnehmende_Websites',
             NULL, NULL, NULL, TRUE
           ),                 
         )

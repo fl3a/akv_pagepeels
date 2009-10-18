@@ -1,19 +1,28 @@
+# $Id: 
+# German translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  akv_pagepeels.module,v 1.2 2009/10/18 18:44:50 fl3a
+#  akv_pagepeels.info: n/a
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: akv_pagepeels\n"
-"POT-Creation-Date: 2009-10-18 12:05+0200\n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: Florian Latzel\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2009-10-18 23:03+0200\n"
+"PO-Revision-Date: 2009-10-18 23:03+0200\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: German <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Language: German\n"
-"X-Poedit-Country: GERMANY\n"
+"Plural-Forms: nplurals=0; plural=;\n"
 
 #: akv_pagepeels.module:21
 msgid "Displays the !online-demo-pagepeel of !AKV at the right upper corner of your site."
-msgstr "Zeigt das !online-demo-pagepeel des !AKV in Deiner Seite in der Ecke, rechts oben."
+msgstr ""
+"Zeigt das !online-demo-pagepeel des !AKV in Deiner Seite in der Ecke, "
+"rechts oben."
 
 #: akv_pagepeels.module:55
 msgid "AKV pagepeels"
@@ -68,8 +77,8 @@ msgid "Show info icon under the pagepeel"
 msgstr "Zeige Info-Icon unter dem Eselsohr"
 
 #: akv_pagepeels.module:90
-msgid "Show, default"
-msgstr "Anzeigen, Voreinstellung"
+msgid "Show"
+msgstr "Zeigen"
 
 #: akv_pagepeels.module:91
 msgid "Don´t shown"
@@ -85,7 +94,9 @@ msgstr "Die Konfigurationsoptionen wurden gepeichert"
 
 #: akv_pagepeels.module:138
 msgid "You are now attending at the !Demo, !here you can create a new entry if you want to get listed at the !attending-sites."
-msgstr "Du nimmst jetzt an der !Demo teil, !here kannst Du einen neue Eintrag anlegen wenn Du unter den !attending-sites gelistet werden möchtest."
+msgstr ""
+"Du nimmst jetzt an der !Demo teil, !here kannst Du einen neue Eintrag "
+"anlegen wenn Du unter den !attending-sites gelistet werden möchtest."
 
 #: akv_pagepeels.module:140
 msgid "Online Demo"
@@ -94,6 +105,10 @@ msgstr "Online Demo"
 #: akv_pagepeels.module:144
 msgid "here"
 msgstr "hier"
+
+#: akv_pagepeels.module:148
+msgid "attending sites"
+msgstr ""
 
 #: akv_pagepeels.module:160
 msgid "The configuration options have been resetted."
@@ -112,6 +127,8 @@ msgid "AKV Pagepeel"
 msgstr "AKV Eselsohr"
 
 #: akv_pagepeels.info:0
-msgid "Displays a pagepeel for the german movement against Vorratsdatenspeicherung, www.vorratsdatenspeicherung.de"
-msgstr "Zeigt ein Eselsohr für die Bewegung gegen Vorratsdatenspeicherung an, www.vorratsdatenspeicherung.de."
+msgid "Displays a pagepeel for the german movement againstVorratsdatenspeicherung, www.vorratsdatenspeicherung.de"
+msgstr ""
+"Zeigt ein Eselsohr für die Bewegung gegen Vorratsdatenspeicherung an, "
+"www.vorratsdatenspeicherung.de."
 

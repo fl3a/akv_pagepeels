@@ -1,4 +1,5 @@
 # $Id: 
+#
 # German translation of Drupal (general)
 # Copyright YEAR NAME <EMAIL@ADDRESS>
 # Generated from files:

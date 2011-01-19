@@ -1,6 +1,7 @@
  // $Id$        
 
  * Introduction
+ * Credits
  * Installation 
  
 INTRODUCTION
@@ -8,13 +9,28 @@ INTRODUCTION
 
 Current Maintainer: fl3a <http://drupal.org/user/51103>
 
-This module diplays a pagepeel (Online Demonstration)for the german movement against "Vorratsdatenspeicherung" 
-aka AKV, http://www.vorratsdatenspeicherung.de.
+This module adds a page peel to your site (see Screenshots ).
+It's purpose is to support the movement against data retention in Germany.
+(Vorratsdatenspeicherung, AK Vorrat aka AKV, http://www.vorratsdatenspeicherung.de )
 
-Font and graphics are from http://www.dataloo.de, licensed under Creative Commons. 
+This functionality of this module is 100% CSS based.
 
-This module was initially written for http://netzaffe.de.
+For more Information about data retention:
 
+    * Data retention on wikipedia. <http://en.wikipedia.org/wiki/Data_retention>
+    * Vorratsdatenspeicherung on wikipedia. <http://de.wikipedia.org/wiki/Vorratsdatenspeicherung> 
+    * Stasi 2.0 on wikipedia. <http://en.wikipedia.org/wiki/Stasi_2.0>
+    * Homepage of AK Vorrat. <http://www.vorratsdatenspeicherung.de/index.php?lang=en>
+
+Credits
+-------
+
+This module was initially written for netzaffe.de and koeln-muelheim.net.
+
+Thanks to AK Vorrat for their efforts and work against data retention
+and Dirk Adler from dataloo for the "Stasi 2.0-stencil", so-called "Schäublone" and other artworks.
+
+The artworks, fonts and graphics are licensed under the Creative Commons.
  
 INSTALLATION
 ------------

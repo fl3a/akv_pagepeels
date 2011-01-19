@@ -19,7 +19,7 @@ For more Information about data retention:
 
     * Data retention on wikipedia. <http://en.wikipedia.org/wiki/Data_retention>
     * Vorratsdatenspeicherung on wikipedia. <http://de.wikipedia.org/wiki/Vorratsdatenspeicherung> 
-    * Stasi 2.0 on wikipedia. http://en.wikipedia.org/wiki/Stasi_2.0
+    * Stasi 2.0 on wikipedia. <http://en.wikipedia.org/wiki/Stasi_2.0>
     * Homepage of AK Vorrat. <http://www.vorratsdatenspeicherung.de/index.php?lang=en>
 
 Credits

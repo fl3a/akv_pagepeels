@@ -1,4 +1,3 @@
-; $Id$ 
 name = AKV Pagepeel
 description = Displays a pagepeel for the german movement against "Vorratsdatenspeicherung", www.vorratsdatenspeicherung.de
 core = 6.x

@@ -65,12 +65,16 @@ function akv_pagepeels_menu() {
 }
 
 /**
- * Implements hook_init() ().
+ * Implements hook_init().
  */
 function akv_pagepeels_init() {
   drupal_add_css(drupal_get_path('module', 'akv_pagepeels') . '/css/akv_pagepeels_expanded.css');
   drupal_add_css(drupal_get_path('module', 'akv_pagepeels') . variable_get('akv_css', ''));
-  drupal_add_html_head(file_get_contents(drupal_get_path('module', 'akv_pagepeels') . '/html/browsersniff.html'), $key = NULL /* TODO Set this variable. */);
+  $element = array(
+    '#type' => 'markup',
+    '#markup' => file_get_contents(drupal_get_path('module', 'akv_pagepeels') . '/html/browsersniff.html'),
+  );
+  drupal_add_html_head($element, 'akv_browsersniff');
 }
 
 /**
@@ -82,4 +86,14 @@ function akv_pagepeels_init() {
  */
 function akv_pagepeels_footer($main = 0) {
   return file_get_contents(drupal_get_path('module', 'akv_pagepeels') . variable_get('akv_html', ''));
+}
+
+/**
+ * Implements hook_page_alter().
+ */
+function akv_pagepeels_page_alter(&$page) { 
+  $page['page_bottom']['akv_pagepeels'] = array(
+    '#markup' => file_get_contents(drupal_get_path('module', 'akv_pagepeels') . variable_get('akv_html', '')),
+    '#weight' => 25
+  ); 
 }

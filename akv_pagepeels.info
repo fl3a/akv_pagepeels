@@ -1,7 +1,0 @@
-name = AKV Pagepeel
-description = Displays a pagepeel for the german movement against "Vorratsdatenspeicherung", www.vorratsdatenspeicherung.de
-core = 7.x
-
-files[] = akv_pagepeels.admin.inc
-files[] = akv_pagepeels.install
-files[] = akv_pagepeels.module

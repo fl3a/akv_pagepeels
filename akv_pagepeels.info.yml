@@ -1,0 +1,6 @@
+name: akv_pagepeels
+type: module
+description: Displays a pagepeel for the german movement against "Vorratsdatenspeicherung", www.vorratsdatenspeicherung.de
+core: 8.x
+package: Other
+

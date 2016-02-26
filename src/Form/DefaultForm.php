@@ -45,14 +45,13 @@ class DefaultForm extends ConfigFormBase {
       '#description' => $this->t('Choose the type of collapsed pagepeel'),
       '#options' => array(
         'akv_pagepeels_latest' => $this->t('Latest pagepeel from AKV'),
-        // http://wiki.vorratsdatenspeicherung.de/images/archive/20101110133306%21Akvse.gif
-        //'de_maiziere' => $this->t('Thomas de Maizière'),
         'akv_pagepeels_schaeuble' => $this->t('Stasi 2.0 classic (Schäublone)'),
         'akv_pagepeels_schaeuble_green' => $this->t('Stasi 2.0 green (Schäublone)'),
         'akv_pagepeels_cam' => $this->t('Surveilance camera(2D)'),
         'akv_pagepeels_3d_cam' => $this->t('Surveilance camera(3D)'),
         'akv_pagepeels_ani_cam' => $this->t('Surveilance camera(3D + animated)'),
         'akv_pagepeels_trauer' => $this->t('Condolement, 1949 - 2007 t'),
+        'akv_pagepeels_de_maiziere' => $this->t('Thomas de Maizière'),
       ),
       '#default_value' => $config->get('akv_pagepeels_type'),
     );

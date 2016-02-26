@@ -51,3 +51,9 @@ akv_pagepeels_trauer:
   css:
       theme:
         css/akv_pagepeels_trauer.css: {}
+
+akv_pagepeels_de_maiziere:
+  version: 1.x
+  css:
+      theme:
+        css/akv_pagepeels_de_maiziere.css: {}:

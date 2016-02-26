@@ -56,4 +56,4 @@ akv_pagepeels_de_maiziere:
   version: 1.x
   css:
       theme:
-        css/akv_pagepeels_de_maiziere.css: {}:
+        css/akv_pagepeels_de_maiziere.css: {}

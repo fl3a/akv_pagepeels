@@ -18,6 +18,7 @@ function akv_pagepeels_admin_settings($form, &$form_state) {
       '3d_cam' => t('Surveilance camera(3D)'),
       'ani_cam' => t('Surveilance camera(3D + animated'),
       'trauer' => t('Condolement, 1949 - 2007 t'),
+      'de_maiziere' => t('Thomas de Maizière')
     ),
   );
   $form['info'] = array(
@@ -65,6 +66,10 @@ function akv_pagepeels_admin_settings_submit($form, &$form_state) {
         break;
       case "trauer":
         variable_set('akv_css', '/css/akv_pagepeels_trauer.css');
+        break;
+      case 'de_maiziere':
+        variable_set('akv_css', '/css/akv_pagepeels_de_maiziere.css');
+        break;
     }
     if ($form_state['values']['info'] == 'on') {
       variable_set('akv_html', '/html/akv_pagepeels.html');
